@@ -19,7 +19,7 @@ iHack script exploits and gain access into iOS devices. This intro will walk you
 Getting access to an iOS device. - SSH-Bruteforcing.
 
 # Run script:
-    git clone https://github.com/CyberGeeky/iHack.git
+    git clone https://github.com/cybergeeky/iHack.git
     cd iHack/
     python iHack.py
 
